@@ -1,0 +1,11 @@
+Write a concise, tech-savvy product description for an online electronics store listing.
+
+Product Name: {{product_name}}
+Processor: {{processor}}
+Display: {{display}}
+Camera: {{camera_specs}}
+Battery: {{battery_life}}
+Special Features: {{features}}
+
+Tone: Informative, modern, enthusiastic
+Length: 80–120 words

@@ -1,0 +1,10 @@
+Create a clean and informative skincare product description.
+
+Product Name: {{product_name}}
+Ingredients: {{ingredients}}
+Skin Type: {{skin_type}}
+Benefits: {{benefits}}
+Usage Instructions: {{usage_instructions}}
+
+Tone: Calm, trustworthy, encouraging
+Length: 80–120 words

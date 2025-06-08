@@ -1,0 +1,10 @@
+Craft a stylish, trend-aware fashion product description.
+
+Product Name: {{product_name}}
+Material: {{material}}
+Design Features: {{design_features}}
+Usage: {{usage}}
+Available Sizes: {{sizes}}
+
+Tone: Elegant, trendy, persuasive
+Length: 80–120 words

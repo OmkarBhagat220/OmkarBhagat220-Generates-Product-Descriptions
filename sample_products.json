@@ -1,0 +1,30 @@
+{
+  "electronics": [
+    {
+      "product_name": "ZenPhone Z5",
+      "processor": "Snapdragon 8 Gen 2",
+      "display": "6.7-inch AMOLED",
+      "camera_specs": "108MP main, 12MP ultra-wide",
+      "battery_life": "5000mAh, 2-day battery life",
+      "features": "5G, in-display fingerprint scanner, fast charging"
+    }
+  ],
+  "fashion": [
+    {
+      "product_name": "AirFlex Run",
+      "material": "Mesh upper, rubber sole",
+      "design_features": "Lightweight, breathable, cushioned",
+      "usage": "Running, gym sessions",
+      "sizes": "6, 7, 8, 9, 10, 11"
+    }
+  ],
+  "skincare": [
+    {
+      "product_name": "GlowRevive Vitamin C Serum",
+      "ingredients": "Vitamin C, Hyaluronic Acid, Green Tea Extract",
+      "skin_type": "All skin types",
+      "benefits": "Brightens complexion, reduces dark spots, hydrates skin",
+      "usage_instructions": "Apply 2-3 drops on cleansed skin morning and night"
+    }
+  ]
+}
